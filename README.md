@@ -46,12 +46,13 @@ Print: "Your score is 46."
 
 
 ```
-Example Input 1 name1 = "Kanye West" name2 = "Kim Kardashian" 
-Example Output 1 Your score is 42, you are alright together. 
+Example Input 1 first_name = "Wendy Uzoka" name2 = "Henry Uzoka" 
+Example Output 1 Your score is 46, you are alright together. 
 ```
 
 
 Solution
+[Image of Love_Compatibility_Calculator](https://github.com/WendyOkoli/Love_Compatibilty_Calculator_Using_Python/blob/main/Love_Compatibility_Calculator.png)
 [https://replit.com/@WendyOkoli/LoveCompatibiltyCalculator](https://replit.com/@WendyOkoli/LoveCompatibiltyCalculator)
 
 
