@@ -52,7 +52,7 @@ Example Output 1 Your score is 46, you are alright together.
 
 
 Solution
-[Image of Love_Compatibility_Calculator](Images/Love_Compatibility_Calculator.png)
+![How your code should look](https://github.com/WendyOkoli/Love_Compatibilty_Calculator_Using_Python/blob/main/Images/Love_Compatibility_Calculator.png)
 
 
 
